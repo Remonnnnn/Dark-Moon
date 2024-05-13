@@ -1,0 +1,40 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a5592bb3ec2534344ae51d7b1e0c8b46, type: 3}
+  m_Name: Dracula's sword
+  m_EditorClassIdentifier: 
+  itemType: 1
+  itemName: Dracula's sword
+  itemStroy: The symbol of blood and death.
+  itemIcon: {fileID: -1944902997, guid: a9ca9a41598dd2e44b125928045c518f, type: 3}
+  itemId: b6c1d989c58e31040aef9bc19b577038
+  equipmentType: 0
+  itemCooldown: 0
+  itemEffects:
+  - {fileID: 11400000, guid: ec289d18b911530409d8230d210f9646, type: 2}
+  strength: 0
+  agility: 0
+  intelligence: 0
+  vitality: 0
+  damage: 15
+  critChance: 15
+  critPower: 0
+  health: 0
+  armor: 0
+  evasion: 0
+  magicResistance: 10
+  fireDamage: 0
+  iceDamage: 0
+  lightDamage: 0
+  craftingMaterials:
+  - data: {fileID: 11400000, guid: 2b505b20c1e66234082a7f028a63219d, type: 2}
+    stackSize: 99

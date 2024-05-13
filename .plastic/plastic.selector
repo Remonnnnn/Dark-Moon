@@ -1,0 +1,4 @@
+repository "RPG@remon_neko@cloud.cn"
+  path "/"
+    br "/main"
+    co "/main"
